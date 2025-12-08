@@ -15,4 +15,5 @@ Software Features
 
 5.It scans the USDT in your account and replenishes the inventory of your selling ads.
 
+https://www.youtube.com/watch?v=AW2CyZrDTm0
 Please contact the developer on Telegram: @eason01993
