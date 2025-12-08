@@ -2,6 +2,8 @@ Binance and Bybit merchant P2P automated trading and auto-bidding bot.
 
 
 Software Features
+![2](https://github.com/user-attachments/assets/0ed4670a-7faf-4200-be95-143fd0d01bf9)
+
 
 1.You can enter target users and the price-increase value. The software will search for competing ads and outbid them, keeping your ad in the first position.
 
