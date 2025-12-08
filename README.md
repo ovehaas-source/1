@@ -1,5 +1,5 @@
 Binance and Bybit merchant P2P automated trading and auto-bidding bot.
-Binance and Bybit merchant P2P automated trading and auto-bidding bot.
+
 
 Software Features
 
